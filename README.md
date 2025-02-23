@@ -1,3 +1,7 @@
+This reporstity is have errors, because its test reporstity and this demo. 
+
+
+
 HOLOlang is basic and easy language. It is 1.5x ~ 3.5x faster than Python and can be learned and coded as easily and simply as Python. It can be used in the following areas:
 1) Game development
 2) Scripting
